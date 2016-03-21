@@ -1,0 +1,22 @@
+{
+  "name": "adtld",
+  "authors": [
+    "wangrenjie"
+  ],
+  "description": "domain tld",
+  "main": "tld.js",
+  "moduleType": [],
+  "keywords": [
+    "domain",
+    "tld"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
